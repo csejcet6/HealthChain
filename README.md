@@ -1,4 +1,4 @@
-# Node.js & Passport Login
+# HealthChain
 
 Simple healthchain proof of concept
 ### Version: 1.0.0
